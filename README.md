@@ -1,2 +1,0 @@
-# svgKonvaFilters
-Created with CodeSandbox
